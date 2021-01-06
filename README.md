@@ -9,6 +9,11 @@ In the below example you can see the structured meshes.
 Simple Block Mesh
 ![Alt Text](https://github.com/gujaria/FDM-Meshing/blob/main/Block.png)
 
+
+
+
+
+
 Mesh formed using Parametric Equations
 ![Alt Text](https://github.com/gujaria/FDM-Meshing/blob/main/circle.png)
 

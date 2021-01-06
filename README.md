@@ -6,16 +6,10 @@ FEM implementation in Java
 •	The code calculates the Global Stiffness Matrix and then does the reduction for the same using the local node numbers of the individual elements and boundary conditions.
 
 In the below example you can see the structured meshes.
-Simple Block Mesh
+Simple Block Mesh and Circular Mesh Using Parametric Equations
 ![Alt Text](https://github.com/gujaria/FDM-Meshing/blob/main/Block.png)
 
-
-
-
-
-
-Mesh formed using Parametric Equations
-![Alt Text](https://github.com/gujaria/FDM-Meshing/blob/main/circle.png)
+![Alt Text](https://github.com/gujaria/FDM-Meshing/blob/main/circl1.png)
 
 Heat Diffusion equation solved on the block mesh(Explicit Central Difference)
 ![Alt Text](https://github.com/gujaria/FDM-Meshing/blob/main/2dheat1.gif)
